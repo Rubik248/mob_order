@@ -943,7 +943,7 @@ top: 3068px;
     padding: 20px 50px;
     width: 190px;
     height: 70px;
-    background: radial-gradient(89.51% 2212.29% at 8.48% 15.71%, #662CD3 0%, #C41B69 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+    background:  #0B0D1C; /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
     border-radius: 100px;
     flex: none;
     order: 1;
@@ -982,7 +982,7 @@ top: 3068px;
   .lypa {
     width: 120px;
     height: 120px;
-    background: radial-gradient(89.51% 2212.29% at 8.48% 15.71%, #0CADA1 0%, #00E2D0 100%); 
+    background:  #0B0D1C;
     border-radius: 100px 100px 0px 100px;
     display: flex;
     justify-content: center;
@@ -1288,7 +1288,7 @@ iframe {
     font-weight: 700;
     font-size: 24px;
     line-height: 116%;
-    background: radial-gradient(89.51% 2212.29% at 8.48% 15.71%, #662CD3 0%, #C41B69 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+    background:  #0B0D1C; /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -1365,7 +1365,7 @@ iframe {
     font-weight: 700;
     font-size: 24px;
     line-height: 116%;
-    background: radial-gradient(89.51% 2212.29% at 8.48% 15.71%, #662CD3 0%, #C41B69 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+    background:  #0B0D1C; /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -1467,7 +1467,7 @@ iframe {
   justify-content: center;
   align-items: center;
   border: 0;
-  background: radial-gradient(89.51% 2212.29% at 8.48% 15.71%, #662CD3 0%, #C41B69 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+  background:  #0B0D1C; /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
   border-radius: 100px;
   width: 150px;
   height: 30px;

@@ -943,7 +943,7 @@ top: 3068px;
     padding: 20px 50px;
     width: 190px;
     height: 70px;
-    background:  #0B0D1C; /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+    background:  #0BADA0; /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
     border-radius: 100px;
     flex: none;
     order: 1;
@@ -1288,7 +1288,7 @@ iframe {
     font-weight: 700;
     font-size: 24px;
     line-height: 116%;
-    background:  #0B0D1C; /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+    background:  #0BADA0; /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -1305,7 +1305,7 @@ iframe {
     font-weight: 700;
     font-size: 36px;
     line-height: 116%;
-    color: #3C476D;
+    color: #0BADA0;
     flex: none;
     order: 0;
     flex-grow: 0;
@@ -1356,7 +1356,7 @@ iframe {
     font-weight: 700;
     font-size: 36px;
     line-height: 116%;
-    color: #3C476D;
+    color: #0BADA0;
   
   }
   .two h3 {
@@ -1365,7 +1365,7 @@ iframe {
     font-weight: 700;
     font-size: 24px;
     line-height: 116%;
-    background:  #0B0D1C; /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+    background:  #0BADA0; /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
